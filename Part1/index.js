@@ -60,7 +60,7 @@ function play(clickedId) {
       }
     }
     if (boardFull === true) {
-      alert("Cat's game, there is no winner");
+      alert("CAT's GAME!");
     }
 
 
